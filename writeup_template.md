@@ -38,7 +38,19 @@ If you'd like to include images to show how the pipeline works, here is how to i
 One potential shortcoming would be what would happen when ... 
 
 Another shortcoming could be ...
-
+printed slope and intercepts (left +ve, right -ve):
+0.63922841068 2.01638466654
+-0.695845474112 642.360834406
+0.565166050458 36.8246942033
+-0.803039591315 691.341123883
+0.609824424226 16.1263426709
+-0.738471112581 663.301096908
+0.626383948374 6.73891441897
+-0.713889832136 647.740309376
+0.576816474899 33.8738314769
+-0.766118516812 679.130453224
+0.590551877317 30.300787992
+-0.728290063774 659.39953715
 
 ### 3. Suggest possible improvements to your pipeline
 
