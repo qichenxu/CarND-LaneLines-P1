@@ -29,11 +29,9 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-
 One potential shortcoming would be what would happen when lane lines aren't straight, similar to the video shown in the challenge video. Current best fit line method works well when lanes were straight and right in front of the car.
 
 Another shortcoming could be when there are other objects in the frame (area of interests). This could be part of car in the adjacent lane, or something near the road sholder. The edges from these objects could be picked and identified as lane lines incorrectly.
-
 
 ### 3. Suggest possible improvements to your pipeline
 
